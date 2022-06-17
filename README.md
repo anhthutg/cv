@@ -2,5 +2,5 @@
 https://anhthutg.github.io/cv/
 
 ### This webpage include
-- HTML basic + intermediate
+- HTML
 - CSS basic
